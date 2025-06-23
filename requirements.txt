@@ -1,0 +1,26 @@
+# Instagram Scraper - Dependências Python
+# Versões testadas e compatíveis (Dezembro 2024)
+
+# Automação do navegador Chrome
+selenium==4.16.0
+
+# Gerenciamento automático do ChromeDriver
+webdriver-manager==4.0.1
+
+# Downloads HTTP das imagens
+requests==2.31.0
+
+# Biblioteca padrão (já incluída no Python)
+# - os: manipulação de arquivos e diretórios
+# - time: delays e timestamps
+# - datetime: formatação de datas
+# - ctypes: elevação de privilégios Windows
+# - sys: argumentos do sistema
+
+# INSTALAÇÃO:
+# pip install -r requirements.txt
+
+# NOTAS:
+# - Requer Python 3.7+
+# - Requer Google Chrome instalado
+# - Testado no Windows 10/11 
